@@ -6,19 +6,18 @@ Advance -> list, set, tuple, dict (in future)
 
 """
 
-
 # int -> whole numbers -> -1, 2, 100, 199999, 9999999999
 # float -> decimal numbers -> 3.14, 41.233 , 18.45
 # boolean -> True or False -> areYouMarried ?
 # String -> str -. bunch of chars ->  pramod, atb, pyatb, IIT, DCE, @#@!@@, ""
 
 age = 34
-print(type(age)) # <class 'int'>
+print(type(age))  # <class 'int'>
 
 name = "Likhith"
 name2 = 'Likhith'
-print(type(name)) #<class 'str'>
-print(type(name2)) #<class 'str'>
+print(type(name))  # <class 'str'>
+print(type(name2))  # <class 'str'>
 print(name2)
 
 """
