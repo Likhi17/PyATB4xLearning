@@ -1,6 +1,12 @@
-# Constructor
-# Special Function in Class,  __init__()
-# It will be automatically called when you create an Object
+"""Class and Object Assignment
+
+
+    Create a Employee Class
+    A - name,age, phone, address, eid
+    B - walk, talk, printdetails,
+    with the Constructor which will set the values
+    Ask the user about the information for E1, E2
+    print the details of the E1, E2 via the print employee functions. """
 
 class Employee:
     name = None
